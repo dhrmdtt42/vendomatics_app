@@ -66,18 +66,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.center,
               children: <Widget>[
-//                Padding(
-//                  padding: const EdgeInsets.all(16.0),
-//                  child: Center(
-//                    child: Text(
-//                      _wifistatus,
-//                      style: TextStyle(
-//                          color: Colors.redAccent,
-//                          fontWeight: FontWeight.bold,
-//                          fontSize: 12.0),
-//                    ),
-//                  ),
-//                ),
+
                 Center(
                   child: Draggable(
                     child: RaisedButton(
