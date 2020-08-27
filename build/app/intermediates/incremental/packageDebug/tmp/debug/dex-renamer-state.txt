@@ -1,4 +1,4 @@
-#Thu Aug 27 15:06:11 IST 2020
+#Thu Aug 27 18:28:23 IST 2020
 base.0=E\:\\Flutter_projects\\vendomatics_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
