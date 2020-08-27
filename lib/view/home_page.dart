@@ -66,7 +66,6 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.center,
               children: <Widget>[
-
                 Center(
                   child: Draggable(
                     child: RaisedButton(
